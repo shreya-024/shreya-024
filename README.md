@@ -1,8 +1,8 @@
 ## Hi, I'm Shreya Kumari 👋
 
-🎓 2nd year Computer Science student  
-💡 Exploring **Development**, **Machine Learning**, and **DSA**  
-💻 Competitive Programming enthusiast  
+ 2nd year Computer Science student  
+ Exploring **Development**, **Machine Learning**, and **DSA**  
+ Competitive Programming enthusiast  
 
 ---
 
@@ -21,9 +21,9 @@
 ---
 
 ### 📂 Projects
-- 🧠 **Fruit Freshness Classifier** – CNN-based ML model  
-- ⚙️ Backend-based mini projects for learning APIs  
-- 🧩 Problem-solving implementations in Java
+-  **Fruit Freshness Classifier** – CNN-based ML model  
+-  Backend-based mini projects for learning APIs  
+-  Problem-solving implementations in Java
 
 ---
 
