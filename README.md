@@ -1,8 +1,7 @@
 ## Hi, I'm Shreya Kumari 👋
 
  2nd year Computer Science student  
- Exploring **Development**, **Machine Learning**, and **DSA**  
- Competitive Programming enthusiast  
+ Exploring **Development**, **Machine Learning**, and **DSA**   
 
 ---
 
