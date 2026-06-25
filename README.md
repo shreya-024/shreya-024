@@ -42,27 +42,6 @@ Right now I'm focused on:
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shreya-024&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=shreya-024&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-024&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
----
-
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya-024&hide_border=true" alt="Activity graph" />
-</p>
-
----
-
 ## Connect
 
 <p align="center">
